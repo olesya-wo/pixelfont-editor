@@ -24,3 +24,5 @@
 default.pfnt - Файл с уже сгенерированным шрифтом, который загружается по умолчанию при запуске программы. Не обязателен, можно сгенерировать в процессе работы.
 
 settings.cfg - Файл настроек. Если отсутствует, то будут использоваться значения по-умолчанию. Исходные коды для работы с настройками взяты из репозитория [SimpleSettings](https://github.com/olesya-wo/SimpleSettings)
+
+![screenshot](https://github.com/olesya-wo/pixelfont-editor/blob/master/main.png)
